@@ -4,4 +4,4 @@ The specification germinated at Microsoft, with Adobe Systems also contributing 
 
 Because of wide availability and typographic flexibility, including provisions for handling the diverse behaviors of all the world's writing systems, OpenType fonts are used commonly today on the major computer platforms.
 
-(taken from [http://en.wikipedia.org/wiki/OpenType Wikipedia]
+(taken from [http://en.wikipedia.org/wiki/OpenType Wikipedia])
